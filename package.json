@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "node.js": "^0.0.1-security",
+    "prompt-sync": "^4.2.0",
+    "stratz.js": "^2.2.2"
+  }
+}
